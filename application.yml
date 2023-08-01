@@ -1,4 +1,6 @@
-
+spring:
+ application:
+   name: Config- Default
 #changes for eureka 
 eureka:
   instance:
