@@ -2,6 +2,8 @@
 spring:
  application:
    name: Config- dev
+
+   spring: cloud: config: server: git: default-label: main
 #changes for eureka 
 eureka:
   instance:
